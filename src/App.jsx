@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoad", function () {
   const question = document.getElementById("question");
   const buttonsContainer = document.getElementById("buttons-container");
   let correctAnswer = 0;
